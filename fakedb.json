@@ -1,0 +1,84 @@
+[
+    {
+      "createAt": "2020-09-08T15:42:38.830Z",
+      "id": 0,
+      "updateAt": "2020-09-08T15:42:38.831Z",
+      "alternativesExercises": [
+        {
+          "createAt": "2020-09-08T15:42:38.831Z",
+          "id": 0,
+          "updateAt": "2020-09-08T15:42:38.831Z",
+          "animatedImage": "string",
+          "baseUrl": "string",
+          "name": "string"
+        }
+      ],
+      "animatedImage": "string",
+      "baseUrl": "string",
+      "benefits": [
+        "string"
+      ],
+      "difficulty": {
+        "createAt": "2020-09-08T15:42:38.831Z",
+        "id": 0,
+        "updateAt": "2020-09-08T15:42:38.831Z",
+        "name": "string"
+      },
+      "equipments": [
+        {
+          "createAt": "2020-09-08T15:42:38.831Z",
+          "id": 0,
+          "updateAt": "2020-09-08T15:42:38.831Z",
+          "name": "string"
+        }
+      ],
+      "images": [
+        "string"
+      ],
+      "mechanics": [
+        {
+          "createAt": "2020-09-08T15:42:38.831Z",
+          "id": 0,
+          "updateAt": "2020-09-08T15:42:38.831Z",
+          "name": "string"
+        }
+      ],
+      "muscles": {
+        "main": [
+          {
+            "createAt": "2020-09-08T15:42:38.831Z",
+            "id": 0,
+            "updateAt": "2020-09-08T15:42:38.831Z",
+            "name": "string"
+          }
+        ],
+        "secondary": [
+          {
+            "createAt": "2020-09-08T15:42:38.831Z",
+            "id": 0,
+            "updateAt": "2020-09-08T15:42:38.831Z",
+            "name": "string"
+          }
+        ]
+      },
+      "name": "string",
+      "steps": [
+        "string"
+      ],
+      "stepsVariations": [
+        "string"
+      ],
+      "type": [
+        {
+          "createAt": "2020-09-08T15:42:38.831Z",
+          "id": 0,
+          "updateAt": "2020-09-08T15:42:38.831Z",
+          "name": "string"
+        }
+      ],
+      "video": {
+        "thumbnail": "string",
+        "url": "string"
+      }
+    }
+  ]
